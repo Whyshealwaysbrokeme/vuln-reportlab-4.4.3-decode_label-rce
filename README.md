@@ -34,5 +34,5 @@ This can lead to:
 
 ## Disclosure
 - **Status:** Under responsible disclosure  
-- **Disclosure Date:** 24 August 2025  
+- **Disclosure Date:** 25 August 2025  
 - **Reporter:** Manopakorn Kooharueangrong (Whyshealwaysbrokeme)
